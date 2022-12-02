@@ -1,0 +1,5 @@
+/Users/azatsaifullin/Projects/26.11/tm1/obj/Debug/net6.0/tm.csproj.AssemblyReference.cache
+/Users/azatsaifullin/Projects/26.11/tm1/obj/Debug/net6.0/tm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azatsaifullin/Projects/26.11/tm1/obj/Debug/net6.0/tm.AssemblyInfoInputs.cache
+/Users/azatsaifullin/Projects/26.11/tm1/obj/Debug/net6.0/tm.AssemblyInfo.cs
+/Users/azatsaifullin/Projects/26.11/tm1/obj/Debug/net6.0/tm.csproj.CoreCompileInputs.cache

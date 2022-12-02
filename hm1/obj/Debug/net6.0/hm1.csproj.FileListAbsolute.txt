@@ -1,0 +1,15 @@
+/Users/azatsaifullin/Projects/26.11/hm1/bin/Debug/net6.0/hm1
+/Users/azatsaifullin/Projects/26.11/hm1/bin/Debug/net6.0/hm1.deps.json
+/Users/azatsaifullin/Projects/26.11/hm1/bin/Debug/net6.0/hm1.runtimeconfig.json
+/Users/azatsaifullin/Projects/26.11/hm1/bin/Debug/net6.0/hm1.dll
+/Users/azatsaifullin/Projects/26.11/hm1/bin/Debug/net6.0/hm1.pdb
+/Users/azatsaifullin/Projects/26.11/hm1/obj/Debug/net6.0/hm1.csproj.AssemblyReference.cache
+/Users/azatsaifullin/Projects/26.11/hm1/obj/Debug/net6.0/hm1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azatsaifullin/Projects/26.11/hm1/obj/Debug/net6.0/hm1.AssemblyInfoInputs.cache
+/Users/azatsaifullin/Projects/26.11/hm1/obj/Debug/net6.0/hm1.AssemblyInfo.cs
+/Users/azatsaifullin/Projects/26.11/hm1/obj/Debug/net6.0/hm1.csproj.CoreCompileInputs.cache
+/Users/azatsaifullin/Projects/26.11/hm1/obj/Debug/net6.0/hm1.dll
+/Users/azatsaifullin/Projects/26.11/hm1/obj/Debug/net6.0/refint/hm1.dll
+/Users/azatsaifullin/Projects/26.11/hm1/obj/Debug/net6.0/hm1.pdb
+/Users/azatsaifullin/Projects/26.11/hm1/obj/Debug/net6.0/hm1.genruntimeconfig.cache
+/Users/azatsaifullin/Projects/26.11/hm1/obj/Debug/net6.0/ref/hm1.dll

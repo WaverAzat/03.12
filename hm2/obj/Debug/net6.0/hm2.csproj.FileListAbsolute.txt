@@ -1,0 +1,5 @@
+/Users/azatsaifullin/Projects/26.11/hm2/obj/Debug/net6.0/hm2.csproj.AssemblyReference.cache
+/Users/azatsaifullin/Projects/26.11/hm2/obj/Debug/net6.0/hm2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azatsaifullin/Projects/26.11/hm2/obj/Debug/net6.0/hm2.AssemblyInfoInputs.cache
+/Users/azatsaifullin/Projects/26.11/hm2/obj/Debug/net6.0/hm2.AssemblyInfo.cs
+/Users/azatsaifullin/Projects/26.11/hm2/obj/Debug/net6.0/hm2.csproj.CoreCompileInputs.cache
